@@ -1,0 +1,12 @@
+Feature branches:
+    - Antes de trabalhar em um projeto colaborativo é importante criar ramificações para atualizar as partes antes de juntar tudo
+    - Isso garante que colaboradores independentes façam suas modificações e depois solicitem um Pull Requests (PR) para o projeto principal.
+    - Nosso README tem algumas dicas sobre o git para esse tipo de ramificações
+    - Devido a questões de tempo pode ser que esse repositório não fique precisamente organizado como deve, mas tentarei fazer o melhor.
+
+Ambiente Virtual: Aqui o foco é Windows e VS Code como IDE
+    - Criar um ambiente virtual é importante para evitar instalar dependecias desnecessárias globalmente, comprometer funcionamento de outros projetos
+    entre outras situações.
+    - No Windows(Terminal do VS CODE): Após selecionar sua pasta de trabalho use no terminal <python -m .venv>
+    - Ativação: Ao finalizar a criação do ambiente virutal com o comando acima use: <.venv\Scripts\Activate.ps1
+
